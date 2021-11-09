@@ -1,0 +1,7 @@
+C:\Users\acarden\source\repos\LabSeven\LabSeven\bin\Debug\LabSeven.exe.config
+C:\Users\acarden\source\repos\LabSeven\LabSeven\bin\Debug\LabSeven.exe
+C:\Users\acarden\source\repos\LabSeven\LabSeven\bin\Debug\LabSeven.pdb
+C:\Users\acarden\source\repos\LabSeven\LabSeven\obj\Debug\LabSeven.csproj.AssemblyReference.cache
+C:\Users\acarden\source\repos\LabSeven\LabSeven\obj\Debug\LabSeven.csproj.CoreCompileInputs.cache
+C:\Users\acarden\source\repos\LabSeven\LabSeven\obj\Debug\LabSeven.exe
+C:\Users\acarden\source\repos\LabSeven\LabSeven\obj\Debug\LabSeven.pdb
